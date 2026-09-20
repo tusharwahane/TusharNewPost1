@@ -33,6 +33,19 @@ public class Carreg extends javax.swing.JFrame {
         table_update();
     }
     
+    
+    {
+    tushar
+    gsdfjsfsjfksdngvksgnjfsh
+    	
+    }
+    
+    
+    
+    public tushar() {
+    	main();
+    	
+    }
     Connection con;
 PreparedStatement pst;
     /**
